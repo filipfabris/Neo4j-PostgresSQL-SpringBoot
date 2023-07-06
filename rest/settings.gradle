@@ -1,0 +1,3 @@
+//rootProject.name = 'rest-server'
+//
+//includeBuild(new File(rootDir, '../React/react-typescript'))
